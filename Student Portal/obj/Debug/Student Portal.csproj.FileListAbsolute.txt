@@ -1,0 +1,43 @@
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\bin\Debug\Student Portal.exe.config
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\bin\Debug\Student Portal.exe
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\bin\Debug\Student Portal.pdb
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student Portal.csprojResolveAssemblyReference.cache
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.Properties.Resources.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student Portal.csproj.GenerateResource.Cache
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student Portal.exe
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student Portal.pdb
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.LogIn.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.SignUp.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.Administration.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.selectOption.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.teacherSignUp.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.addTeacher.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.Form7.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.Form8.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.Form9.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.Form11.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\Student Portal\Student Portal\obj\Debug\Student_Portal.Form10.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\bin\Debug\Student Portal.exe.config
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student Portal.exe
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student Portal.pdb
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\bin\Debug\Student Portal.exe
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\bin\Debug\Student Portal.pdb
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student Portal.csprojResolveAssemblyReference.cache
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.LogIn.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.Form10.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.Form11.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.SignUp.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.selectOption.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.Administration.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.teacherSignUp.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.addTeacher.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.Form7.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.Form8.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.Form9.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.Properties.Resources.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student Portal.csproj.GenerateResource.Cache
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.Form12.resources
+C:\Users\Mostak\Desktop\Student Portal\Student Portal\obj\Debug\Student_Portal.Form13.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\1. Project By Me\Student Portal\Student Portal\bin\Debug\Student Portal.exe.config
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\1. Project By Me\Student Portal\Student Portal\obj\Debug\Student Portal.exe
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\1. Project By Me\Student Portal\Student Portal\obj\Debug\Student Portal.pdb
